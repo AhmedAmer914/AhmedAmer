@@ -60,7 +60,7 @@
           
     
 <ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
+  <li>🏫 I am an <code>Information Systems student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
   <li>🌱 I’m currently studying <code>Next.js</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:AhmedAmer@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
